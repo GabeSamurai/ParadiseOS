@@ -19,4 +19,6 @@ it's assuming. With this, it's possible to have a way to destroy vessels without
 possible for a vessel to transform into itself again, where it will cease to be and soon after, become again. This will 
 destroy everything associated with the vessel and bring it back in a clean state. Basically i am defining "transform" as
 a sort of "cease to be", to "become again" or "becom anew". Hmm... i guess a better idea is that "transform" involves the 
-force assuming a new form? Perharps it is a better way of seeing?
+force assuming a new form? Perharps it is a better way of seeing.
+
+## Primitive's "script" and "follow"
