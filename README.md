@@ -11,7 +11,9 @@ b) "program" was renamed to "learn".
 c) "script" and "follow" primitives were added.  
 d) "create create" is allowed.  
 e) "transform" destroy the current vessel.
-f) "transform" can be called on the habited vessel, in this case, the current vessel will be reseted.
-g) "script" 
+f) "transform" can be called on the habited vessel, in this case, the current vessel will be reseted.  
+g) "script"  
 
-buid - equip - 
+## Proposed New Nomenclature
+Name: FactoryOS  
+Primitives: buid - equip -  
