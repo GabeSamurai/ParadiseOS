@@ -5,14 +5,14 @@ tell where my controls diverge from theirs.
 
 LINK: https://wiki.xxiivv.com/site/paradise.html
 
-## QuickCheck
+## Quick Check
 a) "note", "look", "pass" and "learn" were removed.  
 b) "program" was renamed to "learn".  
 c) "script" and "follow" primitives were added.  
 d) "create create" is allowed.  
 e) "transform" destroy the current vessel.  
 f) "transform" can be called on the habited vessel, in this case, the current vessel will be reseted.  
-g) "script"  
+g) "script" 
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
