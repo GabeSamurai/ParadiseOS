@@ -20,9 +20,13 @@ The reasons for the change in the transform primitive were two fold. First, the 
 each vessel is a entity that exist independely from one another and also from the "force". This is evident by the fact
 that the force can "become" a vessel, and afterwards, cease to be it without the anihilation of the vessel. As such, becoming
 here is analogous with wearing a vessel like cloth or "possesing" it, in exorcist terms. In fact not only it is implied that
-the vessel never ceases to be in the process of something becoming it, the original transform primitive demostrated that, it
-by itself was a combination of the primitives "create" and "become"
+the vessel never ceases to be in the process of something becoming it, one cannot give the same name to two different vessels, even
+if they are inside different vessels. Also, the original transform primitive demostrated that, it
+by itself was a incomplete combination of the primitives "lllllllllllllllllllllll
 
+The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
+it make it easyer distan itsellllllllllllllllllllllllll.llllllllllllllllllll
+sa
 First, each vessel is a real in this fictional reality of the
 library and the primitives are the common behaviour from what i could understand, each vessel
 is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
