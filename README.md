@@ -18,7 +18,13 @@ g) "script"
 
 The reasons for the change in the transform primitive were two fold. First, from what i could understand, each vessel
 is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
-that such vessel exist by it's own rights, programs and vessels inside it. This is what differs it from a directory/file behavior
+that a vessel exist by it's own right, with it's own programs and vessels inside it. The ability to rename a vessel breaks 
+the logic behind this library "reality", in which the name is the simulation of a vessel individuality, as such, the name of
+the vessel is the vessel itself. This is what i understood, and the very essence of the primitive "become" confirmed my
+analisys. In short, the idea of this primitive is that of a "force" becoming a vessel, but the vessel exist on it's 
+own right. The "transform" do have a becoming behavior, with the difference in that 
+
+This is what differs it from a directory/file behavior
 
 
 ## Proposed New Nomenclature
