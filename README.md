@@ -42,7 +42,7 @@ taste and because by following a singular logic design to the end seems less con
 worked like a "rename" command of a file like system, where everything is a file, which has a name and so on. I want to
 do away with such system.  
 
-This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
+This is what differs it from a directory/file behavior, which is cool, and make it feels like i am playing a videogame.
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
