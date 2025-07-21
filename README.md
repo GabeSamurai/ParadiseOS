@@ -31,29 +31,11 @@ by the transformation is fruit of the existential colision between two separated
 same time and space. The new transform as such is simple a sequence of anihilation -> creation. Because of this simple
 definition i allowed one to transform into a vessel already in a possessed state, this vessel will be destroyed and 
 then be called again into existence, fruit of the conflict between its existance and non-existance that cannot be at
-the same time and space. Because of this I also made possible for one to transform into a already existent vessel.
-
-Bellow is shown that this new way better represents the logic design in place.
-
-create possenssion
-create vessel
-create force
-become force
-move vessel possession
-move possession force
-enter force
-learn transform possession2
-
-
-
-garden
-tower
-move tower garden
-move red knight
+the same time and space. Because of this I also made possible for one to transform into a already existent vessel.  
 
 This new transform does three things: allows me to destroy vessels in a way i find elegant and without needing to create
-a "destroy primitive", allows me to reset a current possessed vessel and prevents a sequence of destructions that would lead to the
-force outside vessels.
+a "destroy" primitive, allows me to reset a current possessed vessel and prevents a sequence of destructions that would 
+lead to the force to be outside vessels.
 
 The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
 by following a singular logic design to the end seems less confusing. For example, the old transform worked like a "rename" command of a file like
