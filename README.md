@@ -37,12 +37,10 @@ This new transform does three things: allows me to destroy vessels in a way i fi
 a "destroy" primitive, allows me to reset a current possessed vessel and prevents a sequence of destructions that would 
 lead to the force to be outside vessels.
 
-The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
-by following a singular logic design to the end seems less confusing. For example, the old transform worked like a "rename" command of a file like
-system, where everything is a file, which has a name and so on. Not only there was not 
-
-This is reinforced by the fact that the old transform cannot allow the force to become a vessel
-that already exist which for me, implied two logic designs in place 
+The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal 
+taste and because by following a singular logic design to the end seems less confusing. For example, the old transform 
+worked like a "rename" command of a file like system, where everything is a file, which has a name and so on. I want to
+do away with such system.  
 
 This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
 // remember, this system does not only define input, but output behavior. the user must only see and interact(seeing is a form of interaction)
