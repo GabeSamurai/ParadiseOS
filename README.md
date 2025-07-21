@@ -1,7 +1,8 @@
 # ParadiseOS
 This is a sort of "file system" implementation of the ParadiseOS project, albeit heavily modified. I wont be
 giving the full explanation about the the stuff but i will link in the place where you can understand the concept, and
-tell where my controls diverge from theirs.
+tell where my controls diverge from theirs. In resume, it seeks to simulate a sort of "virtual reality" where the user 
+is a force and can manipulate objects around him by choosing to "become" one of those objects.
 
 LINK: https://wiki.xxiivv.com/site/paradise.html
 
@@ -16,16 +17,23 @@ g) "script"
 
 ## "transform"
 
-The reasons for the change in the transform primitive were two fold. First, the paradise logic design state that
-each vessel is a entity that exist independely from one another and also from the "force". This is evident by the fact
-that the force can "become" a vessel, and afterwards, cease to be it without the anihilation of the vessel. As such, becoming
-here is analogous with wearing a vessel like cloth or "possesing" it, in exorcist terms. In fact not only it is implied that
-the vessel never ceases to be in the process of something becoming it, one cannot give the same name to two different vessels, even
-if they are inside different vessels, making so that the name is a representation of the essence of a object, it's individuality. 
-As such, the old transform, if to follow the logic design in place, should involve the destruction of the current posessed vessel and the creation
-of the new vessel already in a possessed state. Bellow is show that this new logic design can represent such a fact.
+The reasons for the change in the transform primitive were two fold. First, the paradise logic design states that
+each vessel is a entity that exist independently from one another and also from the "force". This is evident by the 
+fact that such "force" can "become" a vessel, and afterwards, cease to be it without the annihilation of the vessel. 
+As such, "becoming" here is analogous with wearing a vessel like cloth or "possessing" it, in exorcist terms. In fact 
+not only it is implied that the vessel never ceases to be in the process of something becoming it, one cannot give 
+the same name to two different vessels, even if they are inside different vessels, making so that the name is a 
+representation of the essence of a object, it's individuality.  
 
-example showing
+As such, the old transform, if to follow the logic design in place, should involve the destruction of the current 
+possessed vessel and the creation of the new vessel already in a possessed state, in fact, the destruction produced 
+by the transformation is fruit of the existential colision between two separated vessels that cannot coexist at the 
+same time and space. This is reinforced by the fact that the old transform cannot allow the force to become a vessel
+that already exist. The new transform as such, aways involve the sequence anihilation -> creation. 
+
+Bellow is show, that this new way better represents the logic design in place.
+
+create garde
 
 garden
 tower
@@ -36,7 +44,7 @@ The old way is not by itself inferior, just different. In my case i value logic 
 by following the a singular logic design to the end seems, at least to me, to... cant say into words.
 
 
-This is what differs it from a directory/file behavior
+This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
 
 
 ## Proposed New Nomenclature
