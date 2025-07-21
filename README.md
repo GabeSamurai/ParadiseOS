@@ -25,11 +25,13 @@ not only it is implied that the vessel never ceases to be in the process of some
 the same name to two different vessels, even if they are inside different vessels, making so that the name is a 
 representation of the essence of a object, it's individuality.  
 
-As such, the old transform, if to follow the logic design in place, should had involved in the destruction of the current 
+As such, the old transform, if to follow the logic design in place, should had involved the destruction of the current 
 possessed vessel and the creation of the new vessel already in a possessed state, in fact, the destruction produced 
 by the transformation is fruit of the existential colision between two separated vessels that cannot coexist at the 
-same time and space. This is reinforced by the fact that the old transform cannot allow the force to become a vessel
-that already exist which for me, implied a . The new transform as such, aways involve the sequence anihilation -> creation. 
+same time and space. The new transform as such is simple a sequence of anihilation -> creation. Because of this simple
+definition i allowed one to transform into a vessel already in a possessed state, this vessel will be destroyed and 
+then be called again into existence, fruit of the conflict between its existance and non-existance that cannot be at
+the same time and space.
 
 Bellow is show, that this new way better represents the logic design in place.
 
@@ -43,6 +45,8 @@ move red knight
 The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
 by following the a singular logic design to the end seems, at least to me, to... cant say into words.
 
+This is reinforced by the fact that the old transform cannot allow the force to become a vessel
+that already exist which for me, implied two logic designs in place 
 
 This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
 // remember, this system does not only define input, but output behavior. the user must only see and interact(seeing is a form of interaction)
