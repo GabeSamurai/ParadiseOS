@@ -16,4 +16,4 @@ g) "script"
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
-Primitives: buid - equip -  
+Primitives: buid - equip - access  
