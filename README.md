@@ -47,7 +47,7 @@ This is what differs it from a directory/file behavior, which is cool, and make 
 ## Proposed New Nomenclature
 Name: FactoryOS  
 User: Fabricator/Bot    
-Primitives: buid - equip - access  
+Primitives: buid - equip - access - leave - take - drop - allocate...  
 
 ## Observations
 1. This system does not only define input, but output behavior. The user must only see and interact(seeing is a form of interaction)
