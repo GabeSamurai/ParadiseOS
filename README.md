@@ -16,13 +16,18 @@ g) "script"
 
 ## "transform"
 
-The reasons for the change in the transform primitive were two fold. First, from what i could understand, each vessel
+The reasons for the change in the transform primitive were two fold. First, the paradise logic design state that
+each vessel is a entity that exist independely from one another and also from the "force". This is evident by the fact
+that the force can "become" a vessel and cease to be it without the anihilation of the vessel. 
+
+First, each vessel is a real in this fictional reality of the
+library and the primitives are the common behaviour from what i could understand, each vessel
 is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
 that a vessel exist by it's own right, with it's own programs and vessels inside it. The ability to rename a vessel breaks 
 the logic behind this library "reality", in which the name is the simulation of a vessel individuality, as such, the name of
 the vessel is the vessel itself. This is what i understood, and the very essence of the primitive "become" confirmed my
 analisys. In short, the idea of this primitive is that of a "force" becoming a vessel, but the vessel exist on it's 
-own right. The "transform" do have a becoming behavior, with the difference in that 
+own right. 
 
 This is what differs it from a directory/file behavior
 
