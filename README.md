@@ -21,8 +21,11 @@ each vessel is a entity that exist independely from one another and also from th
 that the force can "become" a vessel, and afterwards, cease to be it without the anihilation of the vessel. As such, becoming
 here is analogous with wearing a vessel like cloth or "possesing" it, in exorcist terms. In fact not only it is implied that
 the vessel never ceases to be in the process of something becoming it, one cannot give the same name to two different vessels, even
-if they are inside different vessels. Also, the original transform primitive demostrated that, it
-by itself was a incomplete combination of the primitives "lllllllllllllllllllllll
+if they are inside different vessels, making so that the name is a representation of the essence of a object, it's individuality. 
+As such the old transform, if to follow the logic design in place, should involve the destruction of the current posessed vessel and the creation
+of the new vessel already in a possessed state.
+
+
 
 The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
 it make it easyer distan itsellllllllllllllllllllllllll.llllllllllllllllllll
