@@ -6,10 +6,9 @@ tell where my controls diverge from theirs.
 LINK: https://wiki.xxiivv.com/site/paradise.html
 
 ## QuickCheck
-a) "note", "look", "pass" and "learn".
-
-b) "program" renamed to "learn". 
-
-c) "script" and "follow" primitives added
+a) "note", "look", "pass" and "learn".  
+b) "program" renamed to "learn".  
+c) "script" and "follow" primitives added.  
+d) vessels can be named after primitives, that is, "create create"
 
 ## 
