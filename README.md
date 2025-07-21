@@ -16,5 +16,7 @@ This one was heavily modified. The idea is that "transform" does not rename a ve
 will be destroyed along all it's contents and anything else related to it. In this case, the name of the vessel
 is being used to simulate it's individuality, it's defining concept. The idea is that the "force" is changing the form
 it's assuming. With this, it's possible to have a way to destroy vessels without needing a "destroy" primitive. Also it's
-possible for a vessel to transform itself, where it will cease to be and soon after, become again. This will destroy everything
-associated with the vessel and 
+possible for a vessel to transform into itself again, where it will cease to be and soon after, become again. This will 
+destroy everything associated with the vessel and bring it back in a clean state. Basically i am defining "transform" as
+a sort of "cease to be", to "become again" or "becom anew". Hmm... i guess a better idea is that "transform" involves the 
+force assuming a new form? Perharps it is a better way of seeing?
