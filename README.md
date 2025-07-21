@@ -18,7 +18,10 @@ g) "script"
 
 The reasons for the change in the transform primitive were two fold. First, the paradise logic design state that
 each vessel is a entity that exist independely from one another and also from the "force". This is evident by the fact
-that the force can "become" a vessel and cease to be it without the anihilation of the vessel. 
+that the force can "become" a vessel, and afterwards, cease to be it without the anihilation of the vessel. As such, becoming
+here is analogous with wearing a vessel like cloth or "possesing" it, in exorcist terms. In fact not only it is implied that
+the vessel never ceases to be in the process of something becoming it, the original transform primitive demostrated that, it
+by itself was a combination of the primitives "create" and "become"
 
 First, each vessel is a real in this fictional reality of the
 library and the primitives are the common behaviour from what i could understand, each vessel
