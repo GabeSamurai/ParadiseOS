@@ -14,6 +14,12 @@ e) "transform" destroy the current vessel.
 f) "transform" can be called on the habited vessel, in this case, the current vessel will be reseted.  
 g) "script" 
 
+## "transform"
+
+The reasons for the change in the transform primitive were two fold. First, from what i could understand, each vessel
+is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
+that such vessel exist by it's own rights, programs and vessels inside it.  
+
 ## Proposed New Nomenclature
 Name: FactoryOS  
 Primitives: buid - equip - access  
