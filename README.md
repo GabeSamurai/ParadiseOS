@@ -35,11 +35,15 @@ the same time and space. Because of this I also made possible for one to transfo
 
 Bellow is shown that this new way better represents the logic design in place.
 
-create 
+create possenssion
+create vessel
+create force
+become force
+move vessel possession
+move possession force
+enter force
+learn transform possession2
 
-create garden
-create tower
-move tower garden
 
 
 garden
@@ -52,7 +56,8 @@ a "destroy primitive", allows me to reset a current possessed vessel and prevent
 force outside vessels.
 
 The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
-by following the a singular logic design to the end seems, at least to me, to... cant say into words.
+by following a singular logic design to the end seems less confusing. For example, the old transform worked like a "rename" command of a file like
+system, where everything is a file, which has a name and so on. Not only there was not 
 
 This is reinforced by the fact that the old transform cannot allow the force to become a vessel
 that already exist which for me, implied two logic designs in place 
