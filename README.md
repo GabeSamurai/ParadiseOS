@@ -22,26 +22,24 @@ that the force can "become" a vessel, and afterwards, cease to be it without the
 here is analogous with wearing a vessel like cloth or "possesing" it, in exorcist terms. In fact not only it is implied that
 the vessel never ceases to be in the process of something becoming it, one cannot give the same name to two different vessels, even
 if they are inside different vessels, making so that the name is a representation of the essence of a object, it's individuality. 
-As such the old transform, if to follow the logic design in place, should involve the destruction of the current posessed vessel and the creation
-of the new vessel already in a possessed state.
+As such, the old transform, if to follow the logic design in place, should involve the destruction of the current posessed vessel and the creation
+of the new vessel already in a possessed state. Bellow is show that this new logic design can represent such a fact.
 
+example showing
 
+garden
+tower
+move tower garden
+move red knight
 
 The old way is not by itself inferior, just different. In my case i value logic uniformity and singularity, for personal taste and because
-it make it easyer distan itsellllllllllllllllllllllllll.llllllllllllllllllll
-sa
-First, each vessel is a real in this fictional reality of the
-library and the primitives are the common behaviour from what i could understand, each vessel
-is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
-that a vessel exist by it's own right, with it's own programs and vessels inside it. The ability to rename a vessel breaks 
-the logic behind this library "reality", in which the name is the simulation of a vessel individuality, as such, the name of
-the vessel is the vessel itself. This is what i understood, and the very essence of the primitive "become" confirmed my
-analisys. In short, the idea of this primitive is that of a "force" becoming a vessel, but the vessel exist on it's 
-own right. 
+by following the a singular logic design to the end seems, at least to me, to... cant say into words.
+
 
 This is what differs it from a directory/file behavior
 
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
+User: Fabricator/Robot
 Primitives: buid - equip - access  
