@@ -18,7 +18,8 @@ g) "script"
 
 The reasons for the change in the transform primitive were two fold. First, from what i could understand, each vessel
 is a entity on it's own, with the name not being a label but the very representation of the vessel identity. Such is
-that such vessel exist by it's own rights, programs and vessels inside it.  
+that such vessel exist by it's own rights, programs and vessels inside it. This is what differs it from a directory/file behavior
+
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
