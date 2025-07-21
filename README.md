@@ -25,11 +25,11 @@ not only it is implied that the vessel never ceases to be in the process of some
 the same name to two different vessels, even if they are inside different vessels, making so that the name is a 
 representation of the essence of a object, it's individuality.  
 
-As such, the old transform, if to follow the logic design in place, should involve the destruction of the current 
+As such, the old transform, if to follow the logic design in place, should had involved in the destruction of the current 
 possessed vessel and the creation of the new vessel already in a possessed state, in fact, the destruction produced 
 by the transformation is fruit of the existential colision between two separated vessels that cannot coexist at the 
 same time and space. This is reinforced by the fact that the old transform cannot allow the force to become a vessel
-that already exist. The new transform as such, aways involve the sequence anihilation -> creation. 
+that already exist which for me, implied a . The new transform as such, aways involve the sequence anihilation -> creation. 
 
 Bellow is show, that this new way better represents the logic design in place.
 
@@ -45,7 +45,8 @@ by following the a singular logic design to the end seems, at least to me, to...
 
 
 This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
-
+// remember, this system does not only define input, but output behavior. the user must only see and interact(seeing is a form of interaction)
+with vessels in the same hierarchy
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
