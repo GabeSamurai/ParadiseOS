@@ -4,16 +4,22 @@ giving the full explanation about the the stuff but i will link in the place whe
 tell where my controls diverge from theirs. In resume, it seeks to simulate a sort of "virtual reality" where the user 
 is a force and can manipulate objects around him by choosing to "become" one of those objects.
 
+Right now only the "follow" primitive is not totally implemented, i could not get a interpreter to work inside the code. So i will
+be focusing on building one for the time being. For now it only prints the saved script.
+
 LINK: https://wiki.xxiivv.com/site/paradise.html
 
 ## Quick Check
-a) "note", "look", "pass" and "learn" were removed.  
-b) "program" was renamed to "learn".  
-c) "script" and "follow" primitives were added.  
-d) "create create" is allowed.  
-e) "transform" destroy the current vessel.  
-f) "transform" can be called on the habited vessel, in this case, the current vessel will be reseted.  
-g) "script" 
+a) "note", "look", "pass" and "learn" were removed;  
+b) "program" was renamed to "learn";  
+c) "script" and "follow" primitives were added;  
+d) "create create" is allowed;  
+e) "transform" destroys the current vessel;  
+f) "transform" can be called on the possessed vessel, in this case, the possessed vessel will be reseted;  
+g) "warp" is warping the vessels that learned this skill, not the user;  
+f) "script" saves a program written in Go;  
+h) "follow" executes a given script;  
+i) "script make garden : use = true" is the proper formatting, everything after ":" is program code.  
 
 ## "transform"
 
@@ -52,3 +58,4 @@ Primitives: buid - equip - access - leave - take - drop - allocate...
 ## Observations
 1. This system does not only define input, but output behavior. The user must only see and interact(seeing is a form of interaction)
 with vessels in the same hierarchy.  
+2. No form of visualizing the created scripts is to be programmed. I should find a way of registering this in the file system.  
