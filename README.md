@@ -43,10 +43,12 @@ worked like a "rename" command of a file like system, where everything is a file
 do away with such system.  
 
 This is what differs it from a directory/file behavior, which is cool, and make it feels i am play videogame.
-// remember, this system does not only define input, but output behavior. the user must only see and interact(seeing is a form of interaction)
-with vessels in the same hierarchy
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
-User: Fabricator/Robot
+User: Fabricator/Bot    
 Primitives: buid - equip - access  
+
+## Observations
+1. This system does not only define input, but output behavior. The user must only see and interact(seeing is a form of interaction)
+with vessels in the same hierarchy.  
