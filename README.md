@@ -19,10 +19,9 @@ f) "transform" can be called on the possessed vessel, in this case, the possesse
 g) "warp" is warping the vessels that learned this skill, not the user;  
 f) "script" saves a program written in Go;  
 h) "follow" executes a given script;  
-i) "script make garden : use = true" is the proper formatting, everything after ":" is program code.  
+i) "script make garden : use = true" is the proper formatting, everything after ":" is program code. "garden:" is valid.
 
 ## "transform"
-
 The reasons for the change in the transform primitive were two fold. First, the paradise logic design states that
 each vessel is a entity that exist independently from one another and also from the "force". This is evident by the 
 fact that such "force" can "become" a vessel, and afterwards, cease to be it without the annihilation of the vessel. 
@@ -54,6 +53,9 @@ This is what differs it from a directory/file behavior, which is cool, and make 
 Name: FactoryOS  
 User: Fabricator/Bot    
 Primitives: buid - equip - access - leave - take - drop - allocate...  
+
+## "warp"
+Same reason as "transform". The logic design in place was that a force/user could teach vessels the primitives he knows. All primitives pointed to this except "warp". Aside from having the same name those primitives were not the same. I believe it was fruit from a desire to use it as a file like system shortcut, which mixed two logic designs and would blind me to the true way to use this vessels system. I am mostly certain that there are other ways of implementing a "portal".
 
 ## Observations
 1. This system does not only define input, but output behavior. The user must only see and interact(seeing is a form of interaction)
