@@ -1,6 +1,6 @@
 # ParadiseOS
 This is a sort of "file system" implementation of the ParadiseOS project, albeit heavily modified. I wont be
-giving the full explanation about the the stuff but i will link in the place where you can understand the concept, and
+giving the full explanation about the stuff but i will link in the place where you can understand the concept, and
 tell where my controls diverge from theirs. In resume, it seeks to simulate a sort of "virtual reality" where the user 
 is a force and can manipulate objects around him by choosing to "become" one of those objects.
 
@@ -58,4 +58,5 @@ Primitives: buid - equip - access - leave - take - drop - allocate...
 ## Observations
 1. This system does not only define input, but output behavior. The user must only see and interact(seeing is a form of interaction)
 with vessels in the same hierarchy.  
-2. No form of visualizing the created scripts is to be programmed. I should find a way of registering this in the file system.  
+2. No form of visualizing the created scripts is to be programmed. I should find a way of registering this in the file system.
+3. Everything is supposed to be achieved thought the primitives of the paradise system, from coloring the monitor to producing sounds. Although possible to alter the states of input and output devices from the script, the idea is to program anything through these primitives.
