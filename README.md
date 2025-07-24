@@ -50,7 +50,7 @@ do away with such system.
 This is what differs it from a directory/file behavior, which is cool, and make it feels like i am playing a videogame.
 
 ## "warp"
-Same reason as "transform". The logic design in place was that a force/user could teach vessels the primitives he knows. All primitives pointed to this except "warp". Aside from having the same name those primitives were not the same. I believe it was fruit from a desire to use it as a file like system shortcut, which mixed two logic designs and would blind me to the true way to use this vessels system. I am mostly certain that there are other ways of implementing a "portal".
+Same reason as "transform". The logic design in place was that a force/user could teach vessels the primitives he knows. All primitives pointed to this except "warp". Aside from having the same name those primitives were not the same. I believe it was fruit from a desire to use it as a file like system shortcut, which mixed two logic designs and would blind me to the true way to use this vessels system. I am mostly certain that there are other ways of implementing a "portal". Or maybe not the old way itself, but the reasoning behind it, dont know how to explain this properly...  
 
 ## Proposed New Nomenclature
 Name: FactoryOS  
